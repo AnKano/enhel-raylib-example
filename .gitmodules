@@ -1,0 +1,3 @@
+[submodule "third-party/enhel-headless-emulator"]
+	path = third-party/enhel-headless-emulator
+	url = https://github.com/AnKano/enhel-headless-emulator.git
