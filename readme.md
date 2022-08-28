@@ -2,7 +2,7 @@
 
 ![Demo GIF](github-assets/demo.gif "Enhel animated demo")
 
-Example of emulator embedding using static linking. 
+Example of emulator embedding using static linking. Based on [Enhel Headless Emulator](https://github.com/AnKano/enhel-headless-emulator).
 Tested on Windows (MSVC and MinGW compilers) and Ubuntu Linux (GCC compiler).
 
 ### Features
